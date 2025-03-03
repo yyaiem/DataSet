@@ -1,0 +1,24 @@
+{
+    "yy_pages": [
+        {
+            "name": "YantraYodha",
+            "logo": "https://raw.githubusercontent.com/yyaiem/DataSet/refs/heads/main/transparent%20YY%20logo.png",
+            "url": "https://yyaiem.github.io/yy/"
+        },
+        {
+            "name": "Membershub",
+            "logo": "https://raw.githubusercontent.com/yyaiem/DataSet/refs/heads/main/membershub.png",
+            "url": "https://yyaiem.github.io/membershub/"
+        },
+        {
+            "name": "Gurukul",
+            "logo": "https://raw.githubusercontent.com/yyaiem/DataSet/refs/heads/main/GuruKul.png",
+            "url": "https://yyaiem.github.io/gurukul/"
+        },
+        {
+            "name": "Gurukul Dashboard",
+            "logo": "https://raw.githubusercontent.com/yyaiem/DataSet/refs/heads/main/Dashboard.png",
+            "url": "https://yyaiem.github.io/gurukul_admin/"
+        }
+    ],
+}
